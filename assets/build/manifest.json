@@ -1,0 +1,45 @@
+{
+  "_get-plugin-data-CUiZS_nG.js": {
+    "file": "dist/get-plugin-data-CUiZS_nG.js",
+    "name": "get-plugin-data"
+  },
+  "js/blocks/index.ts": {
+    "file": "dist/blocks-DsQs4ahR.js",
+    "name": "blocks",
+    "src": "js/blocks/index.ts",
+    "isEntry": true,
+    "imports": [
+      "_get-plugin-data-CUiZS_nG.js"
+    ],
+    "css": [
+      "dist/blocks-Dyy12yjz.css"
+    ]
+  },
+  "js/settings/index.ts": {
+    "file": "dist/settings-BfgT4Azk.js",
+    "name": "settings",
+    "src": "js/settings/index.ts",
+    "isEntry": true,
+    "imports": [
+      "_get-plugin-data-CUiZS_nG.js"
+    ],
+    "css": [
+      "dist/settings-B9prBJmz.css"
+    ]
+  },
+  "js/web-app-login/index.ts": {
+    "file": "dist/web-app-login-CXB-N4Hv.js",
+    "name": "web-app-login",
+    "src": "js/web-app-login/index.ts",
+    "isEntry": true
+  },
+  "js/wp-login/index.ts": {
+    "file": "dist/wp-login-CLNOwpzk.js",
+    "name": "wp-login",
+    "src": "js/wp-login/index.ts",
+    "isEntry": true,
+    "css": [
+      "dist/wp-login-DytovrYG.css"
+    ]
+  }
+}
